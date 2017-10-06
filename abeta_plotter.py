@@ -2,7 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct  4 10:14:01 2017
-DOES THIS COMMENT SHOW UP ON GIT
+
+This is the final test, can we edit these files 
+in spyder editor. That's probably the easiest way
+to test everything
 @author: boughter
 """
 
